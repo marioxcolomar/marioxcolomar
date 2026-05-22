@@ -1,7 +1,7 @@
 ## Hi, I'm Mario 👋
 
 - 🖥️ I've enjoyed building web application for over the past 8 years
-- 🌱 I’m currently learning ASP.NET and Vue.js
+- 🌱 I’m currently learning .NET and Vue.js
 - 👯 I’m looking to collaborate on projects outside web development
 <!--
 **marioxcolomar/marioxcolomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
